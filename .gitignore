@@ -1,0 +1,14 @@
+# Eclipse & IntelliJ
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+#Maven
+target/
+*.log
+
+#OS files
+.DS_Store
+Thumbs.db
